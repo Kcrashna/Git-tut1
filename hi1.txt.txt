@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"Rashna is the best"<<endl; 
+cout<<"Rashna is the most preety"<<endl; 
 }
