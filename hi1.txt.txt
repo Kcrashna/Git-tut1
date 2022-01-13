@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"Rashna is the most preety"<<endl; 
+int a,b;
+cout<<"Enter any two numbers:"<<endl; 
+cin>>a>>b>>endl;
+return 0;
 }
